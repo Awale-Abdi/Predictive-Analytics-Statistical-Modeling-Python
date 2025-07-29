@@ -1,2 +1,3 @@
+"Python Notebook"/*.ipynb linguist-language=Jupyter\ Notebook
 *.html linguist-detectable=false
-*.ipynb linguist-language=Jupyter\ Notebook
+*.png linguist-detectable=false
