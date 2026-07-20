@@ -188,23 +188,27 @@ Python Notebook/
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/Awale-Abdi/Algorithmic_Trading_Healthcare_Portfolio
+git clone https://github.com/Awale-Abdi/Algorithmic-Trading-Python-Analytics-Backtesting.git
 ```
 
-#### Prepare the Data
+#### Open the Project
 
-Ensure the following files are available in your working directory:
+The repository includes:
 
-- `sp500_companies.csv`
-- `sp500_index.csv`
-- `sp500_stocks.parquet`
+- All required datasets
+- The complete Jupyter Notebook
+- Project outputs and visualizations
 
-#### Run the Project
+Open the notebook located in:
 
-Launch Jupyter Notebook and execute:
-
+```text
+Python Notebook/
 ```
-Data-Driven Investment Strategy.ipynb
+
+Then launch and run:
+
+```text
+Data-Driven Investment Strategy - Analyzing Financial Data for Portfolio Optimization.ipynb
 ```
 
 ## 📬 Contact
