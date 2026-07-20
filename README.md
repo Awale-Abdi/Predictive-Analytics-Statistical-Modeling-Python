@@ -2,7 +2,7 @@
 
 This project demonstrates an **end-to-end predictive analytics workflow** using approximately **15 million financial data points** to showcase large-scale data preparation, exploratory data analysis, statistical modeling, strategy development, and quantitative performance evaluation.
 
-While the project uses **S&P 500 financial market data** as its case study, the analytical methodologies demonstrated such as feature engineering, exploratory data analysis, statistical modeling, simulation, and performance evaluation are broadly transferable to healthcare, operations, manufacturing, insurance, marketing, and other data-driven industries seeking to make evidence-based decisions from large datasets while also demonstrating proficiency in quantitative financial analysis and portfolio modeling.
+While the project uses **S&P 500 financial market data** as its case study, the analytical methodologies demonstrated such as feature engineering, exploratory data analysis, statistical modeling, simulation, and performance evaluation are broadly transferable to  operations, manufacturing, healthcare, insurance, marketing, and other data-driven industries seeking to make evidence-based decisions from large datasets while also demonstrating proficiency in quantitative financial analysis and portfolio modeling.
 
 The solution applies **Python**, statistical analysis, and quantitative modeling to transform large-scale financial datasets into actionable decision-support insights through systematic experimentation and backtesting.
 
