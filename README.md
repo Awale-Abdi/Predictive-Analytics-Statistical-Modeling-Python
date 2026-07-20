@@ -2,7 +2,7 @@
 
 This project demonstrates an **end-to-end predictive analytics workflow** using approximately **15 million financial data points** to showcase large-scale data preparation, exploratory data analysis, statistical modeling, strategy development, and quantitative performance evaluation.
 
-While the project uses **S&P 500 financial market data** as its case study, the analytical methodologies demonstrated—including feature engineering, exploratory data analysis, statistical modeling, simulation, and performance evaluation—are broadly transferable to healthcare, operations, manufacturing, insurance, marketing, and other data-driven industries seeking to make evidence-based decisions from large datasets.
+While the project uses **S&P 500 financial market data** as its case study, the analytical methodologies demonstrated such as feature engineering, exploratory data analysis, statistical modeling, simulation, and performance evaluation are broadly transferable to healthcare, operations, manufacturing, insurance, marketing, and other data-driven industries seeking to make evidence-based decisions from large datasets while also demonstrating proficiency in quantitative financial analysis and portfolio modeling.
 
 The solution applies **Python**, statistical analysis, and quantitative modeling to transform large-scale financial datasets into actionable decision-support insights through systematic experimentation and backtesting.
 
@@ -12,14 +12,18 @@ To demonstrate the ability to design, evaluate, and validate a **predictive anal
 
 The project simulates the work of an analytics team responsible for evaluating portfolio performance, measuring financial risk, and supporting investment decision-making through quantitative analysis.
 
-## 💼 Analytical Questions
+## 💼 Analytical Goals
 
-- Which sectors demonstrate the strongest balance between return and risk?
-- How does sector volatility influence long-term investment performance?
-- Can historical price behavior be used to construct a robust rule-based investment strategy?
-- How consistently does the proposed strategy outperform a market benchmark?
-- How do risk-adjusted performance metrics compare between strategies?
-- What insights can quantitative analysis provide for portfolio optimization?
+This project focuses on applying predictive analytics and statistical modeling to evaluate whether historical financial data can be used to develop a robust, data-driven investment strategy.
+
+The primary goals were to:
+
+- Prepare and analyze large-scale financial datasets
+- Explore sector performance and historical price behavior
+- Evaluate volatility and risk characteristics
+- Develop a rule-based investment strategy
+- Benchmark strategy performance against the S&P 500
+- Assess risk-adjusted returns using quantitative financial metrics
 
 ## 🏗️ Solution Architecture
 
