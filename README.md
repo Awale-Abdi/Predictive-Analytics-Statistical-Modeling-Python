@@ -2,7 +2,7 @@
 
 This project showcases an **end-to-end predictive analytics workflow** built using approximately **15 million financial data points**. I developed it to demonstrate large-scale data preparation, exploratory data analysis, feature engineering, statistical modeling, strategy development, simulation, backtesting, and quantitative performance evaluation.
 
-Although the project uses **S&P 500 financial market data** as its case study, the analytical techniques I apply—including exploratory data analysis, statistical modeling, simulation, model evaluation, and systematic experimentation—are broadly transferable to operations, manufacturing, healthcare, insurance, marketing, and other data-driven industries. At the same time, the project highlights my ability to perform quantitative financial analysis, portfolio modeling, risk evaluation, and investment strategy assessment.
+Although the project uses **S&P 500 financial market data** as its case study, the analytical techniques I apply such as exploratory data analysis, statistical modeling, simulation, model evaluation, and systematic experimentation are broadly transferable to operations, manufacturing, healthcare, insurance, marketing, and other data-driven industries. At the same time, the project highlights my ability to perform quantitative financial analysis, portfolio modeling, risk evaluation, and investment strategy assessment.
 
 Using **Python**, statistical analysis, and quantitative modeling, I designed and validated a predictive analytics solution to identify data-driven investment opportunities, evaluate portfolio performance, measure financial risk, and support investment decision-making through systematic backtesting and performance analysis.
 
