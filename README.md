@@ -1,16 +1,10 @@
 <h1 align="center">Predictive Analytics & Statistical Modeling | Data-Driven Portfolio Analysis with Python</h1>
 
-This project demonstrates an **end-to-end predictive analytics workflow** using approximately **15 million financial data points** to showcase large-scale data preparation, exploratory data analysis, statistical modeling, strategy development, and quantitative performance evaluation.
+This project demonstrates an **end-to-end predictive analytics workflow** using approximately **15 million financial data points** to showcase large-scale data preparation, exploratory data analysis, feature engineering, statistical modeling, strategy development, simulation, backtesting, and quantitative performance evaluation.
 
-While the project uses **S&P 500 financial market data** as its case study, the analytical methodologies demonstrated such as feature engineering, exploratory data analysis, statistical modeling, simulation, and performance evaluation are broadly transferable to  operations, manufacturing, healthcare, insurance, marketing, and other data-driven industries seeking to make evidence-based decisions from large datasets while also demonstrating proficiency in quantitative financial analysis and portfolio modeling.
+While the project uses **S&P 500 financial market data** as its case study, the analytical methodologies demonstrated such as exploratory data analysis, statistical modeling, simulation, model evaluation, and systematic experimentation are broadly transferable to operations, manufacturing, healthcare, insurance, marketing, and other data-driven industries seeking to make evidence-based decisions from large structured datasets. At the same time, the project demonstrates proficiency in quantitative financial analysis, portfolio modeling, risk evaluation, and investment strategy assessment.
 
-The solution applies **Python**, statistical analysis, and quantitative modeling to transform large-scale financial datasets into actionable decision-support insights through systematic experimentation and backtesting.
-
-## 🎯 Objective
-
-To demonstrate the ability to design, evaluate, and validate a **predictive analytics solution** capable of identifying data-driven investment opportunities using large-scale structured datasets.
-
-The project simulates the work of an analytics team responsible for evaluating portfolio performance, measuring financial risk, and supporting investment decision-making through quantitative analysis.
+Using **Python**, statistical analysis, and quantitative modeling, the project develops and validates a predictive analytics solution for identifying data-driven investment opportunities, evaluating portfolio performance, measuring financial risk, and supporting investment decision-making through systematic backtesting and performance analysis.
 
 ## 💼 Analytical Goals
 
