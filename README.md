@@ -192,7 +192,7 @@ Python Notebook/
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/Awale-Abdi/Predictive-Analytics-Statistical-Modeling-Using-Python.git
+git clone https://github.com/Awale-Abdi/Predictive-Analytics-Statistical-Modeling-Python.git
 ```
 
 #### Open the Project
